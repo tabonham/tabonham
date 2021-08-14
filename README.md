@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tabonham
-- 👀 I’m interested in making things, weather it be websites or felt succulants
+- 👀 I’m interested in making things, whether it be websites or felt succulants
 - 🌱 I’m currently learning JavaScript, HTML, CSS...
 - 💞️ I’m looking to collaborate on fun easy projects to get experience and learn new things
 - 📫 How to reach me? Well, on here for now.
