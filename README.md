@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tabonham a JavaScript developer.
+- 👋 Hi, I’m @tabonham a Reactjs developer.
 - 👀 I’m interested in making things, whether it be websites or felt succulants
-- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node.js, Express.js
-- 💞️ I’m looking to collaborate on fun easy projects to get experience and learn new things
+- 🌱 I’m currently learning JavaScript, HTML, CSS, React, Node.js, Express.js, PostgreSQL, MongoDB
+- 💞️ I’m looking to collaborate on fun projects to get experience and learn new things
 - 📫 How to reach me? https://www.linkedin.com/in/tracy-bonham-dev
 
 <!---
