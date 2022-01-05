@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MERN Stack projects**
 
-- 🌱 I’m currently learning **More on the MERN or PERN stacks**
+- 🌱 I’m currently learning **More on the MERN or PERN stacks** and **iOS apps**
 
 - 📝 I regularly write articles on [https://hashnode.com/@tabonham](https://hashnode.com/@tabonham)
 
