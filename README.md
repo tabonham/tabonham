@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **More on the MERN or PERN stacks** and **iOS apps**
 
-- 📝 I regularly write articles on [https://hashnode.com/@tabonham](https://hashnode.com/@tabonham)
+- 📝 I tend to write articles on [https://hashnode.com/@tabonham](https://hashnode.com/@tabonham)
 
 - 📫 How to reach me **https://www.linkedin.com/in/tracy-bonham-dev/**
 
